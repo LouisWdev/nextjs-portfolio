@@ -3,6 +3,7 @@ import { Spotlight } from '@/components/ui/Spotlight';
 
 const Hero = () => {
   return (
+    {/* Main container */}
     <div className='pb-20 pt-36'>
       <div>
         {/* Spotlight elements */}
