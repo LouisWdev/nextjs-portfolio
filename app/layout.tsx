@@ -18,6 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      {/* Decleration of the body */}
       <body className={inter.className}>
         <ThemeProvider
             attribute="class"
