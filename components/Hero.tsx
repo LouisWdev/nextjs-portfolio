@@ -1,3 +1,4 @@
+// react import
 import React from 'react';
 import { Spotlight } from '@/components/ui/Spotlight';
 
