@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 
 export default function Home() {
   return (
+    // Main section
       <main className="
         relative 
         bg-black-100 
