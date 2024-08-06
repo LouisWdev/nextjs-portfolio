@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 
+// Home function
 export default function Home() {
   return (
     // Main section
